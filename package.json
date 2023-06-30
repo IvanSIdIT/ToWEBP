@@ -1,0 +1,24 @@
+{
+  "name": "towebp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvanSIdIT/ToWEBP.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IvanSIdIT/ToWEBP/issues"
+  },
+  "homepage": "https://github.com/IvanSIdIT/ToWEBP#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-cached": "^1.1.1",
+    "gulp-webp": "^4.0.1"
+  }
+}
